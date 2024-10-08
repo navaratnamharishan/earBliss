@@ -1,0 +1,39 @@
+.hero-container{
+    display: block;
+    height: 60px;
+    width: 50px;
+    padding: 0;
+    height: 101vh;
+    width: 216vh;
+}
+
+img{
+    position: relative;
+    height: 100vh;
+    width: 215vh;
+    margin: 0;
+}
+#getoffer{
+    position: absolute;
+    top: 90%;
+    font-weight: bold;
+    left: 22%;
+    height: 73px;
+    width: 250px;
+    transform: translate(-56%, -60%);
+    color: rgb(243, 235, 235); /* Adjust text color as needed */
+    font-size: 24px; /* Adjust font size as needed */
+    text-align: center;
+    background-color: rgba(55, 177, 15, 0.5); /* Optional: semi-transparent background for better readability */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 87px; /* Optional: rounded corners */
+    padding: 9px;
+    border: 1px solid aqua;
+    box-shadow: 40px;
+}
+#getoffer:hover{
+    background-color: rgb(73, 73, 165);
+    color: red;
+    border: 0.5px solid  white;
+    box-shadow: 3px;
+}
