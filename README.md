@@ -25,23 +25,23 @@ Ear-Bliss is an e-commerce website front end built with React. It allows users t
 
 Installation
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/yourusername/Ear-Bliss-Frontend.git
-   ```
+   
 2. Navigate into the project directory:
-   ```bash
+   bash
    cd Ear-Bliss-Frontend
-   ```
+   
 3. Install dependencies:
-   ```bash
+   bash
    npm install
-   ```
+   
 
  Running the Application
 To start the application, run:
-```bash
+bash
 npm start
-```
+
 Then, open your browser and go to `http://localhost:3000`.
 
  Backend Requirement
@@ -55,6 +55,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
  Acknowledgments
 - [Any libraries or resources you wish to credit]
-```
 
 This version includes a note about the backend requirement, emphasizing that users must also run the backend for the front end to function properly. Let me know if you need further changes!
