@@ -26,7 +26,7 @@ Ear-Bliss is an e-commerce website front end built with React. It allows users t
 Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/Ear-Bliss-Frontend.git
+   githttps://github.com/navaratnamharishan/earBliss.git
    
 2. Navigate into the project directory:
    bash
